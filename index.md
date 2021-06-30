@@ -36,7 +36,7 @@ K1/Reno10x/K3/K5/A3/A7x/Redmi等系列
 ``3年+``
 
 
-*联系我们*
+*联系我们*  
 本网站由FUNOS开发组@清使用codingpage托管
 请联系此邮箱[QQ]3239614519@qq.com
 
