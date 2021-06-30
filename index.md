@@ -1,7 +1,8 @@
-          **欢迎来到FUNOS工作室组群网站**
+**欢迎来到FUNOS工作室组群网站**
 
-                 **官改固件**  
-       ColorOS3/6.7目前服务机型: 
+**官改固件**
+  
+ColorOS3/6.7目前服务机型: 
      OPPOA33/A37/A53/A57/A59s/R7s/R7Plus  
      R7s/Plus/R9s/ZUKZ2/R11/R11s/R17Pro  
      K1/Reno10x/K3/K5/A3/A7x/Redmi等系列  
