@@ -19,13 +19,13 @@
 @Color/KarSLR:
 
 技术过硬，脾气够猛
-ColorOS3系列官改独立开发者
-独立开发a33/m/t.a37/m/t等系列官改更新至今
+ColorOS3系列官改独立开发者  
+独立开发a33/m/t.a37/m/t等系列官改更新至今  
 纯大佬  
 ---
 @iPhone13 Pro Max+ 10TB定制版：
 
-Funos工作室组群群主，提供平台
+Funos工作室组群群主，提供平台  
 整活能力强悍
 ---
 *@Likka*
@@ -55,7 +55,7 @@ css配置项基础修改
 
 
 **联系我们**  
-本网站由FUNOS开发组@清使用codingpage托管
+本网站由FUNOS开发组@清使用codingpage托管  
 请联系此邮箱[QQ]3239614519@qq.com  
 
 likka for Ghp @2021
