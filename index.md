@@ -16,19 +16,19 @@
 
 **核心团队** 
  
-@Color/KarSLR:
+*@Color/KarSLR*  
 
 技术过硬，脾气够猛
-ColorOS3系列官改独立开发者  
-独立开发a33/m/t;a37/m/t等系列
-官改更新至今,纯大佬  
+A33/73 m/t等系列的C3官改系列作者
+独自开发，纯大佬
 ---
-@iPhone13 Pro Max+ 10TB定制版：
+*@iPhone13 Pro Max+ 10TB定制版*  
 
-Funos工作室组群群主，提供平台  
-整活能力强悍
+Funos工作室组群群主，提供平台
+特长是整活
+
 ---
-*@Likka*
+*@Likka*  
 
 此网站项目开发者  
 magisk修改  
