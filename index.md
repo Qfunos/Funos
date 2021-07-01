@@ -6,7 +6,7 @@
      OPPOA33/A37/A53/A57/A59s/R7s/R7Plus  
      R7s/Plus/R9s/ZUKZ2/R11/R11s/R17Pro  
      K1/Reno10x/K3/K5/A3/A7x/Redmi等系列  
-     包括k，t，m,Plus但不包括A37t/R9s/Plus系列
+     包括k，t，m,Plus但不包括A37t/R9s/Plus系列``
 
 **我们的开始**
   
@@ -28,17 +28,18 @@ ColorOS3系列官改独立开发者
 Funos工作室组群群主，提供平台
 整活能力强悍
 ---
-                  *@Likka*
-                此网站项目开发者  
-                  magisk修改  
-            优秀的学习能力以及编程能力  
-            hexo＋githubpage独立网站  
-              python3基础语言知识  
-               css配置项基础修改  
+*@Likka*
 
-                  **自我OB**  
-          *我们这几个人才真是缺一不可啊*  
-               **へ(゜∇、°)へ**
+此网站项目开发者  
+magisk修改  
+优秀的学习能力以及编程能力  
+hexo＋githubpage独立网站  
+python3基础语言知识  
+css配置项基础修改  
+
+**自我OB**  
+*我们这几个人才真是缺一不可啊*  
+**へ(゜∇、°)へ**
 
               **群维护成员**  
                   ``13人``
@@ -53,8 +54,8 @@ Funos工作室组群群主，提供平台
                   ``3年+``
 
 
-               **联系我们**  
-    本网站由FUNOS开发组@清使用codingpage托管
-      请联系此邮箱[QQ]3239614519@qq.com  
+**联系我们**  
+本网站由FUNOS开发组@清使用codingpage托管
+请联系此邮箱[QQ]3239614519@qq.com  
 
-            likka for Ghp @2021
+likka for Ghp @2021
